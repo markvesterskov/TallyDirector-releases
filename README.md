@@ -24,7 +24,7 @@ Get the newest version from [Releases](https://github.com/markvesterskov/TallyDi
 | `TallyHelper_<version>_universal.dmg` | TallyHelper on macOS 11 or newer (Apple silicon and Intel) |
 | `TallyHelper_<version>_x64-setup.exe` | TallyHelper on Windows 10 or 11 |
 
-The other files (`.json`, `.sig`, `.tar.gz`) are for the built in updater. You do not need them.
+The other files (`director.json`, `helper.json` and the two `_macos_updater.tar.gz`) are for the built in updater. You do not need them.
 
 ## Install
 
